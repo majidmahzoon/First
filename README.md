@@ -1,2 +1,2 @@
 # First
-modify-first
+modify-conflict
